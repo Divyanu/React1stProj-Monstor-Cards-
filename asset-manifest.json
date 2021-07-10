@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React1stProj-Monstor-Cards-/static/css/main.0de44552.chunk.css",
+    "main.js": "/React1stProj-Monstor-Cards-/static/js/main.a6a6e3bf.chunk.js",
+    "main.js.map": "/React1stProj-Monstor-Cards-/static/js/main.a6a6e3bf.chunk.js.map",
+    "runtime-main.js": "/React1stProj-Monstor-Cards-/static/js/runtime-main.8dd721cd.js",
+    "runtime-main.js.map": "/React1stProj-Monstor-Cards-/static/js/runtime-main.8dd721cd.js.map",
+    "static/js/2.42cb6540.chunk.js": "/React1stProj-Monstor-Cards-/static/js/2.42cb6540.chunk.js",
+    "static/js/2.42cb6540.chunk.js.map": "/React1stProj-Monstor-Cards-/static/js/2.42cb6540.chunk.js.map",
+    "static/js/3.5302c058.chunk.js": "/React1stProj-Monstor-Cards-/static/js/3.5302c058.chunk.js",
+    "static/js/3.5302c058.chunk.js.map": "/React1stProj-Monstor-Cards-/static/js/3.5302c058.chunk.js.map",
+    "index.html": "/React1stProj-Monstor-Cards-/index.html",
+    "static/css/main.0de44552.chunk.css.map": "/React1stProj-Monstor-Cards-/static/css/main.0de44552.chunk.css.map",
+    "static/js/2.42cb6540.chunk.js.LICENSE.txt": "/React1stProj-Monstor-Cards-/static/js/2.42cb6540.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dd721cd.js",
+    "static/js/2.42cb6540.chunk.js",
+    "static/css/main.0de44552.chunk.css",
+    "static/js/main.a6a6e3bf.chunk.js"
+  ]
+}
